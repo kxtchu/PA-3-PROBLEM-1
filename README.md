@@ -1,5 +1,6 @@
 PA#3
 Author: Nathan Josh Cacho
+
 This project demonstrates basic pandas operations for data selection and indexing.
 
 Cars Dataset Problem – loading a dataset of cars from a CSV file, and then subsetting rows to display only the first five and the last four entries.
@@ -9,6 +10,7 @@ The goal is to practice working with pandas DataFrames, specifically reading CSV
 Below is how I approached the problem given and integrated it into code:
 
 PROBLEM 1
+
 For this task, I first loaded the dataset using pandas with the command:
 cars = pd.read_csv('cars.csv')
 
